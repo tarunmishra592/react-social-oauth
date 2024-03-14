@@ -1,1 +1,1 @@
-# react-oauth
+# react-social-oauth
